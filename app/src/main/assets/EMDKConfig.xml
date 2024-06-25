@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--This is an auto generated document. Changes to this document may cause incorrect behavior.--><wap-provisioningdoc>
+  <characteristic type="ProfileInfo">
+    <parm name="created_wizard_version" value="13.0.1"/>
+  </characteristic>
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="SetTilesVisibility"/>
+    <parm name="ModifiedDate" value="2024-06-25 17:14:05"/>
+    <parm name="TargetSystemVersion" value="11.4"/>
+            
+    
+      
+  
+    <characteristic type="UiMgr" version="11.4">
+      <parm name="emdk_name" value=""/>
+      <parm name="QuickTileAction" value="2"/>
+    </characteristic>
+    <characteristic type="UiMgr" version="11.4">
+      <parm name="emdk_name" value=""/>
+      <parm name="QuickTileAction" value="3"/>
+      <parm name="QuickTileIdentifier" value="Bluetooth"/>
+    </characteristic>
+    <characteristic type="UiMgr" version="11.4">
+      <parm name="emdk_name" value=""/>
+      <parm name="QuickTileAction" value="3"/>
+      <parm name="QuickTileIdentifier" value="Custom"/>
+      <parm name="QuickTileCustomIdentifier" value="Dark theme"/>
+    </characteristic>
+    <characteristic type="UiMgr" version="11.4">
+      <parm name="emdk_name" value=""/>
+      <parm name="QuickTileAction" value="3"/>
+      <parm name="QuickTileIdentifier" value="Custom"/>
+      <parm name="QuickTileCustomIdentifier" value="zTile #1"/>
+    </characteristic>
+  </characteristic>
+</wap-provisioningdoc>
